@@ -1,6 +1,14 @@
-# Owl (christian-owl)
+# Owl
 
-Own face scanner
+Owl face scanner
+
+## Clone the repo
+```bash
+git clone https://github.com/vladiere/owl.git
+cd owl
+npm install
+quasar dev
+```
 
 ## Install the dependencies
 ```bash
